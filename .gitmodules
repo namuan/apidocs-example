@@ -1,0 +1,3 @@
+[submodule "plugins/grails-apidocs"]
+	path = plugins/grails-apidocs
+	url = git@github.com:namuan/grails-apidocs.git
